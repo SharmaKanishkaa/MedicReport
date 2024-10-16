@@ -2,6 +2,7 @@ import streamlit as st
 import os
 import pandas as pd
 from pdf2image import convert_from_path
+from pdf2image import convert_from_bytes
 from PIL import Image
 import PyPDF2
 import pytesseract
@@ -176,7 +177,7 @@ def extract_text_from_image(image_file):
 
 # Function to extract text from a PDF using pdf2image and Tesseract
 def extract_text_from_pdf(pdf_file):
-    images = pdf2image.convert_from_bytes(pdf_file.read())
+    images = convert_from_bytes(pdf_file.read())
     text = ""
     for image in images:
         text += pytesseract.image_to_string(image)
