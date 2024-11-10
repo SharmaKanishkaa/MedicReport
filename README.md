@@ -1,1 +1,1 @@
-# MedicQuery
+# MedQuery
