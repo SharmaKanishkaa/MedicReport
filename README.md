@@ -286,7 +286,7 @@ By using a RAG framework such as GaleMed Insights, we can enable and ensure that
 Clone the repository
 
 ```bash
-Project repo: https://github.com/pramodkondur/GaleMed-Insights-GenAI-RAG
+Project repo: [https://github.com/SharmaKanishkaa/MedQuery.git]
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
