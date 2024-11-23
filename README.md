@@ -1,4 +1,4 @@
-# MedQuery – A Gen-AI RAG-Based Medical Chatbot Using Pinecone and LLMs
+# MedicReport – A Gen-AI Powered Medical Report Analyzer Using ClinicalBERT, BioBERT, Pinecone, and LLaMA
 
 
 ![img](static/images/bookcover.png)
