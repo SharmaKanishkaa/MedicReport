@@ -1,4 +1,4 @@
-# MedicReport – A Gen-AI Powered Medical Report Analyzer Using ClinicalBERT, BioBERT, Pinecone, and LLaMA
+# GaleMed Insights – A Gen-AI RAG-Based Medical Chatbot Using Pinecone and LLMs
 
 
 ![img](static/images/bookcover.png)
@@ -286,7 +286,7 @@ By using a RAG framework such as GaleMed Insights, we can enable and ensure that
 Clone the repository
 
 ```bash
-Project repo: [https://github.com/SharmaKanishkaa/MedQuery.git]
+Project repo: https://github.com/pramodkondur/GaleMed-Insights-GenAI-RAG
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
@@ -338,3 +338,7 @@ Now,
 ```bash
 open up localhost:
 ```
+
+
+
+
